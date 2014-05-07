@@ -1,4 +1,4 @@
-ASP.NET-MCV-With-Angular
+MovieList-ASP.NET-MVC
 ========================
 Tutorial: http://www.asp.net/mvc/tutorials/mvc-5/introduction/getting-started
 
