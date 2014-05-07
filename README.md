@@ -1,7 +1,8 @@
 ASP.NET-MCV-With-Angular
 ========================
-http://visualstudiogallery.msdn.microsoft.com/5af151b2-9ed2-4809-bfe8-27566bfe7d83
-Final assignment for frameworks
+Tutorial: http://www.asp.net/mvc/tutorials/mvc-5/introduction/getting-started
+(Optional tutorial) http://www.asp.net/mvc/tutorials/mvc-5
+Article: http://www.asp.net/mvc/tutorials/mvc-5/lifecycle-of-an-aspnet-mvc-5-application
 
 
 #### Document how to use github	
